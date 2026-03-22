@@ -1,0 +1,11 @@
+model_path = "pose_landmarker.task"
+save_folder = "fall_pictures"
+phone_number = "+CountryCodeXXXXX"
+msg = "Fall detected! Fall count: "
+WAIT_WP_OPEN_TIME = 15
+CONDITIONED_CHECK = 0.0001
+CONDITIONED_RECLINE = 0.0001
+LEFT_HIP = 23
+RIGHT_HIP = 24
+LEFT_SHOULDER = 11
+RIGHT_SHOULDER = 12
