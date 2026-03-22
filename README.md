@@ -1,3 +1,5 @@
+#ONGOING PROJECT
+
 # Fall Detection System
 Real-time fall detection using webcam, MediaPipe, and OpenCV. Sends WhatsApp alert with image on fall detection.
 
